@@ -1,0 +1,1 @@
+Learning to use C so i dont have to rely on python libraries. These are just old project replicated in c code (if im able to do it)
